@@ -1,6 +1,8 @@
 # ⚾ 2025 MLB Replay Simulator
 
 #### Video Demo:  <https://youtu.be/n_sNASj1H00>
+#### CS50's Introduction to Programming with Python - Final Project
+
 
 #### Description:
 The **MLB Replay Simulator** is a terminal-based Python application that _tries_ to simulate realistic baseball games using 2025 season real player data. Unlike simple random number generators, this simulation uses a **Sabermetric Engine** that calculates outcomes based on real baseball statistics (OBP, WHIP, ERA, OPS, and Defensive Data).
